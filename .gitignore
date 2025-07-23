@@ -1,0 +1,14 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+logging-middleware/node_modules/
+
+# Build output
+frontend/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db 
